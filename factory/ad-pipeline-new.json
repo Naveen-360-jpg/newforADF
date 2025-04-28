@@ -1,0 +1,9 @@
+{
+	"name": "ad-pipeline-new",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "da359e25-f73e-4849-9aa5-5f413a0018a1",
+		"tenantId": "e0793d39-0939-496d-b129-198edd916feb"
+	}
+}
